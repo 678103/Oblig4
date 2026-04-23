@@ -8,7 +8,7 @@ export default function Layout() {
         name="quiz"
         options={{
           title: "Questions",
-          headerStyle: { backgroundColor: "#fac782" },
+          headerStyle: { backgroundColor: "#4c3514" },
           headerTintColor: "#fff",
           headerTitleStyle: { fontWeight: "bold" },
         }}
