@@ -2,3 +2,4 @@
 
 cd C:\Users\Ingrid\Oblig4
 npx expo start
+# ingridQuiz
